@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Parameterization</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-07-25T11:55:07</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>969d6d86-192e-4534-be2a-9ac9325345ac</testSuiteGuid>
+   <testCaseLink>
+      <guid>092cdfff-0fcd-4003-bae9-4802f3119e1a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Day 2 Training/Training/Scenario3-Parameterization</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>82789ba2-0cc3-4c1a-a733-4a690edef313</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Day2/CSV Source</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>82789ba2-0cc3-4c1a-a733-4a690edef313</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UN1</value>
+         <variableId>745001ce-4c61-47a6-8f3c-3c5e63d6d586</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82789ba2-0cc3-4c1a-a733-4a690edef313</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PWD1</value>
+         <variableId>79bfac33-1087-4d39-8274-ba2c06902960</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

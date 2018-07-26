@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Scenario2,Chrome 67.0.3396.99,,2018-07-25 11:20:20,2018-07-25 11:21:01,41.183s,FAILED
+,,,,,,
+Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables,Chrome 67.0.3396.99,,2018-07-25 11:20:21,2018-07-25 11:21:01,40.176s,FAILED
+openBrowser,Chrome 67.0.3396.99,,2018-07-25 11:20:21,2018-07-25 11:20:24,3.288s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-25 11:20:24,2018-07-25 11:20:30,5.198s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-25 11:20:30,2018-07-25 11:21:01,31.218s,FAILED

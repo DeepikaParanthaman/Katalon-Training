@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario3 - IE</description>
+   <name>Scenario3 - IE</name>
+   <tag>Scenario3 - IE</tag>
+   <comment></comment>
+   <testCaseGuid>abc4d2aa-ec7c-46d5-aa2f-50ade2f0de86</testCaseGuid>
+</TestCaseEntity>

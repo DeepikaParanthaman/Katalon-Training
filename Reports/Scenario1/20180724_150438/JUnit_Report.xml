@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Scenario1" time="16" tests="1" failures="0" errors="0">
+   <testsuite name="Scenario1" tests="1" failures="0" errors="0" time="16" timestamp="2018-07-24 15:04:51" hostname="slk - WSLK1FFTRFW-09.SLKSOFT.COM" id="Test Suites/Scenario1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Scenario1\\20180724_150438"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Scenario1\\20180724_150438\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-09.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 61.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="01122651-b93a-4d8b-8f88-82e798ba2a17"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day1Training/Scenario1-Record Mode" classname="Test Cases/Day1Training/Scenario1-Record Mode" status="PASSED">
+         <system-out><![CDATA[2018-07-24 15:04:52 - [TEST_CASE][PASSED] - Test Cases/Day1Training/Scenario1-Record Mode: Test Cases/Day1Training/Scenario1-Record Mode
+
+2018-07-24 15:04:52 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:04:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:04:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:05:00 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 15:05:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Scenario1/a_Make Appointment' is clicked on
+
+2018-07-24 15:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Scenario1/a_Make Appointment' is clicked on
+
+2018-07-24 15:05:01 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Scenario1/input_username'
+
+2018-07-24 15:05:01 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Scenario1/input_username'
+
+2018-07-24 15:05:01 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Scenario1/input_password'
+
+2018-07-24 15:05:01 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Scenario1/input_password'
+
+2018-07-24 15:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Scenario1/button_Login' is clicked on
+
+2018-07-24 15:05:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Scenario1/button_Login' is clicked on
+
+2018-07-24 15:05:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:05:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-24 15:05:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:05:08 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-24 15:05:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 15:04:51 - [TEST_SUITE][PASSED] - Scenario1: Test Cases/Day1Training/Scenario1-Record Mode]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

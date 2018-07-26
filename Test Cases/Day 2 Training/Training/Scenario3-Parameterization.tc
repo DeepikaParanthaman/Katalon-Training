@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario3-Parameterization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cb09923-d811-43fb-9236-39e664324a71</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>745001ce-4c61-47a6-8f3c-3c5e63d6d586</id>
+      <masked>false</masked>
+      <name>UN1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79bfac33-1087-4d39-8274-ba2c06902960</id>
+      <masked>false</masked>
+      <name>PWD1</name>
+   </variable>
+</TestCaseEntity>

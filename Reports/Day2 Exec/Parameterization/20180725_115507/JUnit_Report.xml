@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Parameterization" time="13" tests="1" failures="0" errors="0">
+   <testsuite name="Parameterization" tests="1" failures="0" errors="0" time="13" timestamp="2018-07-25 11:55:09" hostname="slk - WSLK1FFTRFW-09.SLKSOFT.COM" id="Test Suites/Day2 Exec/Parameterization">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day2 Exec\\Parameterization\\20180725_115507"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day2 Exec\\Parameterization\\20180725_115507\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-09.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="3ce043b7283735f0a7d3bb76b6918832"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day 2 Training/Training/Scenario3-Parameterization" classname="Test Cases/Day 2 Training/Training/Scenario3-Parameterization" status="PASSED">
+         <system-out><![CDATA[2018-07-25 11:55:09 - [TEST_CASE][PASSED] - Test Cases/Day 2 Training/Training/Scenario3-Parameterization: Test Cases/Day 2 Training/Training/Scenario3-Parameterization
+
+2018-07-25 11:55:09 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:55:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:55:12 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 11:55:17 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 11:55:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/span_Username' is clicked on
+
+2018-07-25 11:55:17 - [MESSAGE][PASSED] - Object: 'Object Repository/span_Username' is clicked on
+
+2018-07-25 11:55:17 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/input_txtUsername'
+
+2018-07-25 11:55:17 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/input_txtUsername'
+
+2018-07-25 11:55:17 - [TEST_STEP][PASSED] - setText: Text 'admin123' is set on object 'Object Repository/input_txtPassword'
+
+2018-07-25 11:55:17 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/input_txtPassword'
+
+2018-07-25 11:55:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/input_Submit' is clicked on
+
+2018-07-25 11:55:21 - [MESSAGE][PASSED] - Object: 'Object Repository/input_Submit' is clicked on
+
+2018-07-25 11:55:21 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 11:55:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 11:55:09 - [TEST_SUITE][PASSED] - Parameterization: Test Cases/Day 2 Training/Training/Scenario3-Parameterization]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Skills</name>
+   <tag></tag>
+   <elementGuidId>fb11e381-c088-4daf-944a-1950fb1e4e9f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-valid ng-dirty ng-valid-parse</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Skills</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>Skill</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-init</name>
+      <type>Main</type>
+      <value>Skill=''</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Select Skills
+                            Adobe InDesignAdobe PhotoshopAnalyticsAndroidAPIsArt DesignAutoCADBackup ManagementCC++CertificationsClient ServerClient SupportConfigurationContent ManagmentContent Management Systems (CMS)Corel DrawCorel Word PerfectCSSData AnalyticsDesktop PublishingDesignDiagnosticsDocumentationEnd User SupportEmailEngineeringExcelFileMaker ProFortranHTMLImplementationInstallationInternetiOSiPhoneLinuxJavaJavascriptMacMatlabMayaMicrosoft ExcelMicrosoft OfficeMicrosoft OutlookMicrosoft PublisherMicrosoft WordMicrosoft VisualMobileMySQLNetworksOpen Source SoftwareOraclePerlPHPPresentationsProcessingProgrammingPT ModelerPythonQuickBooksRubyShadeSoftwareSpreadsheetSQLSupportSystems AdministrationTech SupportTroubleshootingUnixUI / UXWeb Page DesignWindowsWord ProcessingXMLXHTML</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Skills&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

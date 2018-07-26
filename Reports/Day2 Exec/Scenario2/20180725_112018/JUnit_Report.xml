@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Scenario2" time="41" tests="0" failures="1" errors="0">
+   <testsuite name="Scenario2" tests="0" failures="1" errors="0" time="41" timestamp="2018-07-25 11:20:20" hostname="slk - WSLK1FFTRFW-09.SLKSOFT.COM" id="Test Suites/Day2 Exec/Scenario2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day2 Exec\\Scenario2\\20180725_112018"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day2 Exec\\Scenario2\\20180725_112018\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day2 Exec\\Scenario2\\20180725_112018\\1532497861057.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-09.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="30c8b8ecfd478653b7840f0b7846918c"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables" classname="Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)"/>
+         <system-out><![CDATA[2018-07-25 11:20:21 - [TEST_CASE][FAILED] - Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables: Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables FAILED because (of) Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)
+
+2018-07-25 11:20:21 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:20:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:20:24 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 11:20:30 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 11:20:30 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)
+
+2018-07-25 11:21:01 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)
+[[ATTACHMENT|C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day2 Exec\\Scenario2\\20180725_112018\\1532497861057.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 11:20:21 - [TEST_CASE][FAILED] - Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables: Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables FAILED because (of) Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 11:20:20 - [TEST_SUITE][FAILED] - Scenario2: Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables FAILED because (of) Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-07-25 11:20:20 - [TEST_SUITE][FAILED] - Scenario2: Test Cases/Day 2 Training/Scenario1-Variables/Sceanrio2 - Global Variables FAILED because (of) Unable to click on object 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Day 1 Object Repo/Scenario1/a_Make Appointment' located by 'By.xpath: //a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

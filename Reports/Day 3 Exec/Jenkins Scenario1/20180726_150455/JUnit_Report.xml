@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Jenkins Scenario1" time="13" tests="1" failures="0" errors="0">
+   <testsuite name="Jenkins Scenario1" tests="1" failures="0" errors="0" time="13" timestamp="2018-07-26 15:04:57" hostname="slk - WSLK1FFTRFW-09.SLKSOFT.COM" id="Test Suites/Day 3 Exec/Jenkins Scenario1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day 3 Exec\\Jenkins Scenario1\\20180726_150455"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Day1Training\\Reports\\Day 3 Exec\\Jenkins Scenario1\\20180726_150455\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-09.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="7766dcc4f80d62e2758276ce9583623c"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day 3 Training/Training/Scenario2 - Jenkins" classname="Test Cases/Day 3 Training/Training/Scenario2 - Jenkins" status="PASSED">
+         <system-out><![CDATA[2018-07-26 15:04:57 - [TEST_CASE][PASSED] - Test Cases/Day 3 Training/Training/Scenario2 - Jenkins: Test Cases/Day 3 Training/Training/Scenario2 - Jenkins
+
+2018-07-26 15:04:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-26 15:05:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-26 15:05:01 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-26 15:05:09 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumeasy.com/test/' successfully
+
+2018-07-26 15:05:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Day3 Repo/Jenkins - Scenario/a_Input Forms' is clicked on
+
+2018-07-26 15:05:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Day3 Repo/Jenkins - Scenario/a_Input Forms' is clicked on
+
+2018-07-26 15:05:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Day3 Repo/Jenkins - Scenario/a_Simple Form Demo' is clicked on
+
+2018-07-26 15:05:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Day3 Repo/Jenkins - Scenario/a_Simple Form Demo' is clicked on
+
+2018-07-26 15:05:10 - [TEST_STEP][PASSED] - setText: Text 'test' is set on object 'Object Repository/Day3 Repo/Jenkins - Scenario/input_user-message'
+
+2018-07-26 15:05:10 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Day3 Repo/Jenkins - Scenario/input_user-message'
+
+2018-07-26 15:05:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Day3 Repo/Jenkins - Scenario/button_Show Message' is clicked on
+
+2018-07-26 15:05:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Day3 Repo/Jenkins - Scenario/button_Show Message' is clicked on
+
+2018-07-26 15:05:10 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-26 15:05:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-26 15:04:57 - [TEST_SUITE][PASSED] - Jenkins Scenario1: Test Cases/Day 3 Training/Training/Scenario2 - Jenkins]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario1</description>
+   <name>Scenario1-Record Mode</name>
+   <tag>Scenario1</tag>
+   <comment></comment>
+   <testCaseGuid>79406508-28ad-4275-90ad-e27e95ba47ee</testCaseGuid>
+</TestCaseEntity>

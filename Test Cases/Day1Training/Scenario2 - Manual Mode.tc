@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scenario2 - IE</description>
+   <name>Scenario2 - Manual Mode</name>
+   <tag>Scenario2</tag>
+   <comment></comment>
+   <testCaseGuid>d9fb78f6-78f3-415e-b852-b9373d9c7a63</testCaseGuid>
+</TestCaseEntity>

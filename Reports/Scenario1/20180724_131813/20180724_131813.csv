@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Scenario1,Firefox 61.0,Scenario1,2018-07-24 13:18:15,2018-07-24 13:18:30,14.916s,PASSED
+,,,,,,
+Test Cases/Day1Training/Scenario1-Record Mode,Firefox 61.0,Scenario1,2018-07-24 13:18:15,2018-07-24 13:18:30,14.599s,PASSED
+openBrowser,Firefox 61.0,,2018-07-24 13:18:15,2018-07-24 13:18:20,5.098s,PASSED
+navigateToUrl,Firefox 61.0,,2018-07-24 13:18:20,2018-07-24 13:18:23,2.565s,PASSED
+click,Firefox 61.0,,2018-07-24 13:18:23,2018-07-24 13:18:24,0.757s,PASSED
+setText,Firefox 61.0,,2018-07-24 13:18:24,2018-07-24 13:18:24,0.074s,PASSED
+setEncryptedText,Firefox 61.0,,2018-07-24 13:18:24,2018-07-24 13:18:24,0.310s,PASSED
+click,Firefox 61.0,,2018-07-24 13:18:24,2018-07-24 13:18:25,1.143s,PASSED
+openBrowser,Firefox 61.0,,2018-07-24 13:18:25,2018-07-24 13:18:29,4.195s,PASSED
+closeBrowser,Firefox 61.0,,2018-07-24 13:18:29,2018-07-24 13:18:30,0.171s,PASSED

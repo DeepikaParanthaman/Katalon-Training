@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario2 - Check Box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db9546dc-2489-451b-8e89-85dd8316523d</testCaseGuid>
+   <variable>
+      <defaultValue>'Success - Check box is checked'</defaultValue>
+      <description></description>
+      <id>bf459b2f-7264-4a5f-93fa-8ec7a22651d5</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+</TestCaseEntity>

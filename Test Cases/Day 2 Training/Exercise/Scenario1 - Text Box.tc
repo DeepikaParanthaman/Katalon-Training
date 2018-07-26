@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario1 - Text Box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>708cb513-6eb6-439b-9dc7-a7eeca37f2df</testCaseGuid>
+   <variable>
+      <defaultValue>'Test My Message'</defaultValue>
+      <description></description>
+      <id>0d6eebc6-95c6-455e-8513-5e920041f7a2</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>

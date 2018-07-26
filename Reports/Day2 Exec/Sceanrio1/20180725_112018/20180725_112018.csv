@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sceanrio1,Chrome 67.0.3396.99,,2018-07-25 11:20:20,2018-07-25 11:20:36,15.716s,PASSED
+,,,,,,
+Test Cases/Day 2 Training/Scenario1-Variables/Scenario1,Chrome 67.0.3396.99,,2018-07-25 11:20:21,2018-07-25 11:20:35,14.610s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-07-25 11:20:21,2018-07-25 11:20:25,3.775s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-25 11:20:25,2018-07-25 11:20:31,5.902s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-25 11:20:31,2018-07-25 11:20:31,0.099s,PASSED
+setText,Chrome 67.0.3396.99,,2018-07-25 11:20:31,2018-07-25 11:20:31,0.095s,PASSED
+setEncryptedText,Chrome 67.0.3396.99,,2018-07-25 11:20:31,2018-07-25 11:20:31,0.292s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-25 11:20:31,2018-07-25 11:20:35,3.996s,PASSED
